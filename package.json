@@ -1,0 +1,19 @@
+{
+  "name": "react-practice-2",
+  "version": "1.0.0",
+  "description": "Practice how to create a function component in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmychen10/React-Practice-2.git"
+  },
+  "author": "Jimmy Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmychen10/React-Practice-2/issues"
+  },
+  "homepage": "https://github.com/jimmychen10/React-Practice-2#readme"
+}
